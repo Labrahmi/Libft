@@ -4,8 +4,12 @@ My very first own library.
 <br>
 <code>
 	$ git clone github.com/Labrahmi/Libft.git
-<br>
+</code>
+<br><br>
+<code>
 	$ make all
-<br>
+</code>
+<br><br>
+<code>
 	$ enjoy
 </code>
