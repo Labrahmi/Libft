@@ -1,16 +1,4 @@
 # Libft
 My very first own library.
 
-<br>
-<code>
-	$ git clone github.com/Labrahmi/Libft.git
-</code>
-<br><br>
-<code>
-	$ make all
-</code>
-<br><br>
-<code>
-	$ enjoy
-</code>
- 
+[![ylabrahm's 42 Libft Score](https://badge42.vercel.app/api/v2/cl9oekxzi00450gmdu1hi2rb2/project/2813318)](https://github.com/JaeSeoKim/badge42)
